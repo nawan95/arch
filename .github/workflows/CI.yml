@@ -1,4 +1,4 @@
-- name: Arch Linux's package action
+name: Arch Linux's package action
   # You may pin to the exact commit or the version.
   # uses: datakrama/archlinux-package-action@d90b1b2689d81857eccc8924521c52937ceadf17
   uses: datakrama/archlinux-package-action@v1.1.1
